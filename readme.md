@@ -3,3 +3,4 @@
     <img src="welcome.svg" style="width: 100%;">
   </a>
 </div>
+<!-- Idea taken from https://github.com/nikolalsvk -->
